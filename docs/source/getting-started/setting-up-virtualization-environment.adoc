@@ -47,7 +47,7 @@ For more information, see the GitHub documentation of the link:https://github.co
 - For Ubuntu-18.10
 +
 ----
-$ sudo apt install qemu qemu-kvm virt-manager
+$ sudo apt install qemu-kvm libvirt-daemon libvirt-daemon-system
 ----
 - For older Ubuntu versions
 +
